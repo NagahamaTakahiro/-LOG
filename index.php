@@ -17,7 +17,7 @@
     <!-- Third party plugin CSS-->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.min.css" rel="stylesheet" />
     <!-- Core theme CSS (includes Bootstrap)-->
-    <link href="http://mysite02.local/wp-content/themes/KOHAblog/css/styles.css" rel="stylesheet" />
+    <link href="http://mysite02.local/wp-content/themes/琥珀LOG/css/styles.css" rel="stylesheet" />
     <?php wp_head(); ?>
 </head>
 
